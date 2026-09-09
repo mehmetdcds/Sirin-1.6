@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Linye Defteri",
+  "short_name": "Linye Defteri",
+  "description": "Elektrik iç tesisatı periyodik kontrol ve linye kayıt uygulaması",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#f8fbfa",
+  "theme_color": "#147b69",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
